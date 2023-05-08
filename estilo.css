@@ -1,0 +1,22 @@
+.ingreso{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 85%;
+    height: 100px;
+    background-color: green;
+}
+
+#input{
+    height: 50%;
+}
+
+#submit{
+    height: 50%;
+    width: 100px;
+    border-radius: 25px;
+}
+
+#submit:hover{
+    cursor: pointer;
+}
